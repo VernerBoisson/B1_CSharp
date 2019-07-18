@@ -15,7 +15,7 @@ les champs suivant permettent l'identifacation :
 * accessToken
 * accessTokenSecret
 
-Les champs qui suivent permettent sont pour les fonctionnalités :
+Les champs qui suivent sont pour les fonctionnalités :
 * path : permet de choisir le dossier où seront sauvegarder les images
 * users : sont utilisateur desquels on veut sauvegarder les images
 * keywords : sont les recheches desquels on veut sauvegarder les images
